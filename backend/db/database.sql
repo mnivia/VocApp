@@ -15,6 +15,6 @@ show tables;
 
 describe table;
 
-INSERT INTO palabraS VALUES
+INSERT INTO palabras VALUES
     (1,"Drive","Manejar"),
     (2,"Read","Leer");
